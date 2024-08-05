@@ -1,6 +1,6 @@
 # Netflix UI Clone
 
-This repository contains the source code for a frontend Netflix clone. The application is fully responsive and mimics the user interface of the original Netflix website. The project uses Firebase for authentication.
+This repository contains the source code for a frontend Netflix clone. The application is fully responsive and the project uses Firebase for authentication.
 
 ## Features
 
