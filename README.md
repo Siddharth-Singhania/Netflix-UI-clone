@@ -8,15 +8,12 @@ This repository contains the source code for a frontend Netflix clone. The appli
 - **Modern UI**: Clean and modern user interface inspired by Netflix.
 - **User Authentication**: Sign up, log in, and log out using Firebase authentication.
 - **Browse Content**: Browse through different categories of movies and TV shows.
-- **Search Functionality**: Search for your favorite movies and TV shows.
 - **Detail Pages**: View detailed information about selected movies and TV shows, including trailers.
 
 ## Sections
 
 - **Home**: Browse popular and recommended movies and TV shows.
-- **Search**: Search for specific movies and TV shows.
-- **Details**: View detailed information and trailers of selected movies and TV shows.
-- **Profile**: Manage user profile and settings.
+- **Details**: View trailers of selected movies and TV shows.
 
 ## Technologies Used
 
