@@ -21,7 +21,7 @@ This repository contains the source code for a frontend Netflix clone. The appli
 - **Firebase**: For user authentication.
 - **CSS**: For styling the application to match the Netflix UI.
 
-#npm start
+# npm start
 Runs the app in the development mode. Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
